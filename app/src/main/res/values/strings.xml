@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MediaTracker</string>
+    <string name="catalog_title">Explore o catálogo</string>
+    <string name="catalog_description">Sugestões de livros e filmes para sua próxima jornada.</string>
+    <string name="back_collection">Voltar à coleção</string>
+    <string name="back_catalog">Voltar ao catálogo</string>
+    <string name="catalog_units">%1$d %2$s</string>
+    <string name="cover_description">Capa de %1$s</string>
+    <string name="session_progress">%1$d de %2$d %3$s</string>
+    <string name="progress_percent">%1$d%%</string>
+    <string name="synopsis_card_title">Sinopse</string>
+    <string name="book_cover_image">Capa da obra</string>
+    <string name="next_page_button">Avançar 1</string>
+    <string name="previous_page_button">Diminuir 1</string>
+    <string name="complete">Marcar concluído</string>
+    <string name="creator">Autor / direção</string>
+    <string name="year">Ano</string>
+    <string name="reading_progress">Progresso nesta sessão</string>
+    <string name="not_informed">Não informado</string>
+    <string name="no_synopsis">Sinopse não informada.</string>
+    <string name="item_not_found">Item não encontrado. Volte ao catálogo e selecione uma obra.</string>
+</resources>
